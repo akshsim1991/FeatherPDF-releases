@@ -1,15 +1,15 @@
 {
-  "version": "2.14.2",
+  "version": "2.14.3",
   "date": "30 October 2026",
-  "notes": "First release with automatic updates. Windows and macOS: the same features. Tables saved from Word on a Mac are edited in place; signatures, OCR, batch mode and measuring on the Mac.",
+  "notes": "Fixes the crash when text recognition (OCR) is started on the Mac. Grouped toolbar buttons take the colourful icon setting; OCR languages are listed by name.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.2.exe",
-    "size": 12167489,
-    "sha256": "9603edf46c4355c10f0e3e86e6a6d4b2595fcc6fd9f79a1deb50fcc0186c87e8"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.3.exe",
+    "size": 12167490,
+    "sha256": "9ff0a10f2268626668b190123195da35bd880626d1cfac68188cd6b0b8962a87"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.2-mac.dmg",
-    "size": 10654964,
-    "sha256": "ee282aecc667a8e46fdf5ae37b019f404007e485a952c666ccb75056505d20e3"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.3-mac.dmg",
+    "size": 10660480,
+    "sha256": "252f4d8f260b37ef31583eb7e75418008e5a0299b92054e19a3405b0b9805d53"
   }
 }
