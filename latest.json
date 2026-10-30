@@ -1,0 +1,15 @@
+{
+  "version": "2.14.2",
+  "date": "30 October 2026",
+  "notes": "First release with automatic updates. Windows and macOS: the same features. Tables saved from Word on a Mac are edited in place; signatures, OCR, batch mode and measuring on the Mac.",
+  "windows": {
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.2.exe",
+    "size": 12167489,
+    "sha256": "9603edf46c4355c10f0e3e86e6a6d4b2595fcc6fd9f79a1deb50fcc0186c87e8"
+  },
+  "mac": {
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.2-mac.dmg",
+    "size": 10654964,
+    "sha256": "ee282aecc667a8e46fdf5ae37b019f404007e485a952c666ccb75056505d20e3"
+  }
+}
