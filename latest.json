@@ -1,15 +1,15 @@
 {
-  "version": "2.14.5",
-  "date": "31 October 2026",
-  "notes": "Editing a line or a paragraph: numbered items are edited whole, hyphens are kept, justified paragraphs stay justified; on the Mac the editor sits on the text in the document's own font, with the page's text hidden while editing.",
+  "version": "2.14.6",
+  "date": "5 November 2026",
+  "notes": "Print on both sides of paper, with flip on the long edge or the short edge. Right-click a tab to open the directory having its file, copy its path, or close tabs.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.5.exe",
-    "size": 12170505,
-    "sha256": "3e81b8f6739c88700a2f9493c24b4f66a7f4da0154561e84b4ca7ea879b2241a"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.6.exe",
+    "size": 12171831,
+    "sha256": "28de6d361077a39a630697e0aed13c510fd57cfaf2d3740bf67c8a3e579f1838"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.5-mac.dmg",
-    "size": 10701475,
-    "sha256": "af3d63a82d15c9fdc65166a224c5f044673d641e7e9e779b66645f81c0261a9d"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.6-mac.dmg",
+    "size": 10717487,
+    "sha256": "d435bff8863386c372cd5e1a5827a1c1a5279d8b1163679873e92f8872d31e03"
   }
 }
