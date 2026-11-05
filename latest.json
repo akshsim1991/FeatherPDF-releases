@@ -1,15 +1,15 @@
 {
-  "version": "2.14.6",
+  "version": "2.14.7",
   "date": "5 November 2026",
-  "notes": "Print on both sides of paper, with flip on the long edge or the short edge. Right-click a tab to open the directory having its file, copy its path, or close tabs.",
+  "notes": "About: with courtesy to Vinod Kumar C S, Athith D and Mamatha H R.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.6.exe",
-    "size": 12171831,
-    "sha256": "28de6d361077a39a630697e0aed13c510fd57cfaf2d3740bf67c8a3e579f1838"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.7.exe",
+    "size": 12171752,
+    "sha256": "16d49114b3fdfd8707d4c874fd460c9f8152bd08ef8e21d841190133e34655b3"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.6-mac.dmg",
-    "size": 10717487,
-    "sha256": "d435bff8863386c372cd5e1a5827a1c1a5279d8b1163679873e92f8872d31e03"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.7-mac.dmg",
+    "size": 10717594,
+    "sha256": "580488fe4afbdd5069e5c9b3744b09850fecfa85e20ca8b886948c5399deba18"
   }
 }
