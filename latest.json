@@ -1,15 +1,15 @@
 {
-  "version": "2.14.7",
+  "version": "2.15.0",
   "date": "5 November 2026",
-  "notes": "About: with courtesy to Vinod Kumar C S, Athith D and Mamatha H R.",
+  "notes": "Feather PDF 2.15 \"Falcon\": separate windows. Open a tab in a new window (right-click the tab, or drag it off the tab row), open a new window (Ctrl+N on Windows, Shift+Command+N on the Mac), or have every file open in its own window (Settings > Tabs).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.14.7.exe",
-    "size": 12171752,
-    "sha256": "16d49114b3fdfd8707d4c874fd460c9f8152bd08ef8e21d841190133e34655b3"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.15.0.exe",
+    "size": 12180311,
+    "sha256": "09f93d64d13fd26795f820165abbc1a4699006157975a4af5bc52c789702cf47"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.14.7-mac.dmg",
-    "size": 10717594,
-    "sha256": "580488fe4afbdd5069e5c9b3744b09850fecfa85e20ca8b886948c5399deba18"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.15.0-mac.dmg",
+    "size": 10718290,
+    "sha256": "bb73d54a2f2b97f038fed7ce3af341e9593b3b91428193d7c01c361df6bc765f"
   }
 }
