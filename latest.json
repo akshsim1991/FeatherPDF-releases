@@ -1,15 +1,15 @@
 {
-  "version": "2.15.0",
-  "date": "5 November 2026",
-  "notes": "Feather PDF 2.15 \"Falcon\": separate windows. Open a tab in a new window (right-click the tab, or drag it off the tab row), open a new window (Ctrl+N on Windows, Shift+Command+N on the Mac), or have every file open in its own window (Settings > Tabs).",
+  "version": "2.16.0",
+  "date": "6 November 2026",
+  "notes": "Feather PDF 2.16 \"Mustang\": find and redact sensitive information (e-mail, phone, Aadhaar, PAN, bank); search by whole word, wildcards and in comments; split at bookmarks or by size, merge keeping bookmarks, two-sided scans; comment replies and review status; attached files and layers; an undo history; form totals and checks; an accessibility check; word-by-word compare; repair and Fast Web View; pen pressure; read aloud with the word highlighted; saved workspaces.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.15.0.exe",
-    "size": 12180311,
-    "sha256": "09f93d64d13fd26795f820165abbc1a4699006157975a4af5bc52c789702cf47"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.16.0.exe",
+    "size": 12499205,
+    "sha256": "93bfd617947c94718138e287f03f20ce36b4baf3cb5cb4586898f272b28301f7"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.15.0-mac.dmg",
-    "size": 10718290,
-    "sha256": "bb73d54a2f2b97f038fed7ce3af341e9593b3b91428193d7c01c361df6bc765f"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.16.0-mac.dmg",
+    "size": 11356873,
+    "sha256": "f9d825a6829d1c2c43064be723b77c304d7eff8fd5dafd98cf8dd6b69ffb24a5"
   }
 }
