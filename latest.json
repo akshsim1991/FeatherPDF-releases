@@ -1,15 +1,15 @@
 {
-  "version": "2.16.0",
-  "date": "6 November 2026",
-  "notes": "Feather PDF 2.16 \"Mustang\": find and redact sensitive information (e-mail, phone, Aadhaar, PAN, bank); search by whole word, wildcards and in comments; split at bookmarks or by size, merge keeping bookmarks, two-sided scans; comment replies and review status; attached files and layers; an undo history; form totals and checks; an accessibility check; word-by-word compare; repair and Fast Web View; pen pressure; read aloud with the word highlighted; saved workspaces.",
+  "version": "2.17.0",
+  "date": "7 November 2026",
+  "notes": "2.17.0 \"Bronco\": Blackboard page colours - a pure black (AMOLED) page with white text, inverted or with the original colours of pictures, coloured text and highlights.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.16.0.exe",
-    "size": 12499205,
-    "sha256": "93bfd617947c94718138e287f03f20ce36b4baf3cb5cb4586898f272b28301f7"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.17.0.exe",
+    "size": 12504769,
+    "sha256": "f5fcaed9293f2e2d636aeffe910b424049bc5d4bbf559ed0596a3c0e58177394"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.16.0-mac.dmg",
-    "size": 11356873,
-    "sha256": "f9d825a6829d1c2c43064be723b77c304d7eff8fd5dafd98cf8dd6b69ffb24a5"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.17.0-mac.dmg",
+    "size": 11365087,
+    "sha256": "915e22bf66e4db9b7cc355b6034650f48ba9e163661c8b7f9325d04e0d7252a1"
   }
 }
