@@ -1,15 +1,15 @@
 {
-  "version": "2.18.0",
+  "version": "2.19.0",
   "date": "11 November 2026",
-  "notes": "2.18.0 \"Ranger\": Combine PDFs (the open tabs into one PDF); Convert to PDF from the right-click menu of File Explorer (Finder Quick Actions on the Mac); updates now work with several windows open, behind a proxy, and when raw.githubusercontent.com is blocked.",
+  "notes": "2.19.0 \"Endeavour\": Convert to PDF for PowerPoint, Word and Excel files (with the office program on the PC); a .jpg that is really a PNG no longer converts to a blank page; photos stand the right way up; the update check asks every server at once (no more 20-second wait).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.18.0.exe",
-    "size": 12537878,
-    "sha256": "ec7a6808dc7095aab9d2bb37592dff299e95a9c516e2dff2e435cc38d6ff130c"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.19.0.exe",
+    "size": 12596857,
+    "sha256": "4bdd0c55892e60f518bfa4b5743c61b34d1d013e9baec1f5f1db0086479a10f4"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.18.0-mac.dmg",
-    "size": 11410277,
-    "sha256": "1350b75443c492db303de1c463652c3437ea0d0c743cffd907e179ab3263a8f5"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.19.0-mac.dmg",
+    "size": 11423213,
+    "sha256": "dabd81549a69627c4facff78d4f5ec419597a0ceedde497371910fc95abcca9e"
   }
 }
