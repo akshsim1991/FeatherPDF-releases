@@ -1,15 +1,15 @@
 {
-  "version": "2.17.0",
-  "date": "7 November 2026",
-  "notes": "2.17.0 \"Bronco\": Blackboard page colours - a pure black (AMOLED) page with white text, inverted or with the original colours of pictures, coloured text and highlights.",
+  "version": "2.18.0",
+  "date": "11 November 2026",
+  "notes": "2.18.0 \"Ranger\": Combine PDFs (the open tabs into one PDF); Convert to PDF from the right-click menu of File Explorer (Finder Quick Actions on the Mac); updates now work with several windows open, behind a proxy, and when raw.githubusercontent.com is blocked.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.17.0.exe",
-    "size": 12504769,
-    "sha256": "f5fcaed9293f2e2d636aeffe910b424049bc5d4bbf559ed0596a3c0e58177394"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.18.0.exe",
+    "size": 12537878,
+    "sha256": "ec7a6808dc7095aab9d2bb37592dff299e95a9c516e2dff2e435cc38d6ff130c"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.17.0-mac.dmg",
-    "size": 11365087,
-    "sha256": "915e22bf66e4db9b7cc355b6034650f48ba9e163661c8b7f9325d04e0d7252a1"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.18.0-mac.dmg",
+    "size": 11410277,
+    "sha256": "1350b75443c492db303de1c463652c3437ea0d0c743cffd907e179ab3263a8f5"
   }
 }
