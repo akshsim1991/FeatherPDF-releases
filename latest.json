@@ -1,15 +1,15 @@
 {
-  "version": "2.19.0",
+  "version": "2.19.1",
   "date": "11 November 2026",
-  "notes": "2.19.0 \"Endeavour\": Convert to PDF for PowerPoint, Word and Excel files (with the office program on the PC); a .jpg that is really a PNG no longer converts to a blank page; photos stand the right way up; the update check asks every server at once (no more 20-second wait).",
+  "notes": "2.19.1: swiping left or right on a touchpad (or Shift + wheel) scrolls the page sideways (Windows).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.19.0.exe",
-    "size": 12596857,
-    "sha256": "4bdd0c55892e60f518bfa4b5743c61b34d1d013e9baec1f5f1db0086479a10f4"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.19.1.exe",
+    "size": 12597090,
+    "sha256": "ed8013985394fa06c3bb5b2d9a1acba5c167f057e28dc21ecb5d8de0d1d3036a"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.19.0-mac.dmg",
-    "size": 11423213,
-    "sha256": "dabd81549a69627c4facff78d4f5ec419597a0ceedde497371910fc95abcca9e"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.19.1-mac.dmg",
+    "size": 11423279,
+    "sha256": "bcefe588ca3e6a8d522a3360b59964997624750db1ff8c0411ee48dfd2170c5c"
   }
 }
