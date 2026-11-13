@@ -1,15 +1,15 @@
 {
-  "version": "2.20.1",
+  "version": "2.20.2",
   "date": "13 November 2026",
-  "notes": "2.20.1: editing text of LaTeX documents (question papers, theses) in its own bold or regular serif, on one line; a heading grows along its line as you type.",
+  "notes": "2.20.2: a paragraph with a bold label keeps the label bold when edited; dashes, curly quotes, bullets and ellipses accepted; repeated edits on one page work.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.1.exe",
-    "size": 12607523,
-    "sha256": "35c89c8af43552f5d83db2bbc157dcf9390eb0c7e18585f0e5f598e524ed275a"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.2.exe",
+    "size": 12616027,
+    "sha256": "6c8ad869bc6e34544d56ed9bfba0b1848ad8f18a76e12fa9ad0ff8b89323938a"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.1-mac.dmg",
-    "size": 11448258,
-    "sha256": "edcf4e7b588584058f316b0772d3c0e5d989d85277a41e657f0ae5cfec3300de"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.2-mac.dmg",
+    "size": 11462782,
+    "sha256": "5e635cdf744cea314314aa03d7e05fc8ffc67bcdc54232f03ae9e4dbc8b7345f"
   }
 }
