@@ -1,15 +1,15 @@
 {
-  "version": "2.19.2",
+  "version": "2.20.0",
   "date": "13 November 2026",
-  "notes": "2.19.2: starts on Windows 7 again (it stopped with \"entry point BCryptHash could not be located\"). Runs on Windows 7 SP1, 8.1, 10 and 11 (64-bit).",
+  "notes": "2.20.0 \"Aspire\": Edit PDF in one click - every paragraph and picture outlined; click into any text to edit it there, or a picture to move or resize it.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.19.2.exe",
-    "size": 12598028,
-    "sha256": "e9400bc6245b2ff873cc19423385c518fac6e8760ba30a14e89896089745f87c"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.0.exe",
+    "size": 12605670,
+    "sha256": "a590f79c75b942084a7cdac6b0e61947aba59a1a94863ecfdf606d29bfe42e52"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.19.2-mac.dmg",
-    "size": 11423308,
-    "sha256": "fa6169b59fd3eb9ed126833eccede4f7c5d3a4065d3914ece6a93ea72fb86cc9"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.0-mac.dmg",
+    "size": 11446514,
+    "sha256": "65b09d3f8856b940b8749726a44bc89d321a417e0f467d25f58883487a8f98f1"
   }
 }
