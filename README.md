@@ -5,8 +5,8 @@ cloud service, no tracking. Free to use and share, always.
 
 **Version 2.20.3**
 
-- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.20.3.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.3.exe) (or from the mirror: [FeatherPDF-Setup-2.20.3.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-Setup-2.20.3.exe))
-- macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.20.3-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.3-mac.dmg) (or from the mirror: [FeatherPDF-2.20.3-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.20.3-mac.dmg))
+- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.20.3.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.3.exe) (or from the mirror: [FeatherPDF-Setup-2.20.3.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@90b482587b71f9a4a419a39876c6cdecde2d8a8b/FeatherPDF-Setup-2.20.3.exe))
+- macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.20.3-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.3-mac.dmg) (or from the mirror: [FeatherPDF-2.20.3-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@90b482587b71f9a4a419a39876c6cdecde2d8a8b/FeatherPDF-2.20.3-mac.dmg))
 
 If a download does not start, your network may block raw.githubusercontent.com (some providers do at times): use the
 mirror link beside it, which serves the same file (its SHA-256 is in latest.json).
