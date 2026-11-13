@@ -1,15 +1,15 @@
 {
-  "version": "2.20.0",
+  "version": "2.20.1",
   "date": "13 November 2026",
-  "notes": "2.20.0 \"Aspire\": Edit PDF in one click - every paragraph and picture outlined; click into any text to edit it there, or a picture to move or resize it.",
+  "notes": "2.20.1: editing text of LaTeX documents (question papers, theses) in its own bold or regular serif, on one line; a heading grows along its line as you type. (Windows; the Mac follows.)",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.0.exe",
-    "size": 12605670,
-    "sha256": "a590f79c75b942084a7cdac6b0e61947aba59a1a94863ecfdf606d29bfe42e52"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.1.exe",
+    "size": 12607523,
+    "sha256": "35c89c8af43552f5d83db2bbc157dcf9390eb0c7e18585f0e5f598e524ed275a"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.0-mac.dmg",
-    "size": 11446514,
-    "sha256": "65b09d3f8856b940b8749726a44bc89d321a417e0f467d25f58883487a8f98f1"
+    "url": "",
+    "size": 0,
+    "sha256": ""
   }
 }

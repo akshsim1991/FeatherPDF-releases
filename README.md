@@ -3,9 +3,9 @@
 A fast, free PDF reader and editor for Windows and macOS. Everything happens on your own computer: no account, no
 cloud service, no tracking. Free to use and share, always.
 
-**Version 2.20.0**
+**Version 2.20.1** (Windows; the Mac: 2.20.0, its 2.20.1 follows)
 
-- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.20.0.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.0.exe) (or from the mirror: [FeatherPDF-Setup-2.20.0.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@a92c0e3a42ff5ad087609f64e318680ccebf6c5d/FeatherPDF-Setup-2.20.0.exe))
+- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.20.1.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.1.exe) (or from the mirror: [FeatherPDF-Setup-2.20.1.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@a92c0e3a42ff5ad087609f64e318680ccebf6c5d/FeatherPDF-Setup-2.20.0.exe))
 - macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.20.0-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.0-mac.dmg) (or from the mirror: [FeatherPDF-2.20.0-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@a92c0e3a42ff5ad087609f64e318680ccebf6c5d/FeatherPDF-2.20.0-mac.dmg))
 
 If a download does not start, your network may block raw.githubusercontent.com (some providers do at times): use the
