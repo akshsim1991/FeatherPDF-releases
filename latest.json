@@ -1,15 +1,15 @@
 {
-  "version": "2.19.1",
-  "date": "11 November 2026",
-  "notes": "2.19.1: swiping left or right on a touchpad (or Shift + wheel) scrolls the page sideways (Windows).",
+  "version": "2.19.2",
+  "date": "13 November 2026",
+  "notes": "2.19.2: starts on Windows 7 again (it stopped with \"entry point BCryptHash could not be located\"). Runs on Windows 7 SP1, 8.1, 10 and 11 (64-bit).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.19.1.exe",
-    "size": 12597090,
-    "sha256": "ed8013985394fa06c3bb5b2d9a1acba5c167f057e28dc21ecb5d8de0d1d3036a"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.19.2.exe",
+    "size": 12598028,
+    "sha256": "e9400bc6245b2ff873cc19423385c518fac6e8760ba30a14e89896089745f87c"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.19.1-mac.dmg",
-    "size": 11423279,
-    "sha256": "bcefe588ca3e6a8d522a3360b59964997624750db1ff8c0411ee48dfd2170c5c"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.19.2-mac.dmg",
+    "size": 11423308,
+    "sha256": "fa6169b59fd3eb9ed126833eccede4f7c5d3a4065d3914ece6a93ea72fb86cc9"
   }
 }
