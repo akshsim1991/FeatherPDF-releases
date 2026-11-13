@@ -1,15 +1,15 @@
 {
-  "version": "2.20.2",
+  "version": "2.20.3",
   "date": "13 November 2026",
-  "notes": "2.20.2: a paragraph with a bold label keeps the label bold when edited; dashes, curly quotes, bullets and ellipses accepted; repeated edits on one page work.",
+  "notes": "Recent files are no longer lost after an update, when several windows are closed, or when Windows shuts down; file names in Kannada, Hindi and other scripts are kept in the recent list.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.2.exe",
-    "size": 12616027,
-    "sha256": "6c8ad869bc6e34544d56ed9bfba0b1848ad8f18a76e12fa9ad0ff8b89323938a"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.3.exe",
+    "size": 12622212,
+    "sha256": "44ed0711615a73f49dd0a10e9da7ccec59c3ad6b73cca223275d05ed80bcdb69"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.2-mac.dmg",
-    "size": 11462782,
-    "sha256": "5e635cdf744cea314314aa03d7e05fc8ffc67bcdc54232f03ae9e4dbc8b7345f"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.3-mac.dmg",
+    "size": 11463266,
+    "sha256": "8071c75abe7f38ea002b39ca7d0703196db6ad8f846dd9d4ab7c344cbb1cb0b0"
   }
 }
