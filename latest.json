@@ -1,15 +1,15 @@
 {
-  "version": "2.20.3",
-  "date": "13 November 2026",
-  "notes": "Recent files are no longer lost after an update, when several windows are closed, or when Windows shuts down; file names in Kannada, Hindi and other scripts are kept in the recent list.",
+  "version": "2.20.4",
+  "date": "15 November 2026",
+  "notes": "Editing no longer turns gradient backgrounds black or loses symbols and shadows; longer paragraphs only move the text they reach, so a footer no longer stops an edit; wrapped list items continue under their text.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.3.exe",
-    "size": 12622212,
-    "sha256": "44ed0711615a73f49dd0a10e9da7ccec59c3ad6b73cca223275d05ed80bcdb69"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.4.exe",
+    "size": 12640325,
+    "sha256": "2dcd409d0fa1611aa1624bd90ecc40bab9b8ef6bed89688f65dfa88874dfe149"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.3-mac.dmg",
-    "size": 11463266,
-    "sha256": "8071c75abe7f38ea002b39ca7d0703196db6ad8f846dd9d4ab7c344cbb1cb0b0"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.4-mac.dmg",
+    "size": 11491021,
+    "sha256": "4589f5d2887eb87e06cf110582615aedacc54cc26b69461d3aac9ff1d43d9149"
   }
 }
