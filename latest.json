@@ -1,15 +1,20 @@
 {
-  "version": "2.20.4",
-  "date": "15 November 2026",
-  "notes": "Editing no longer turns gradient backgrounds black or loses symbols and shadows; longer paragraphs only move the text they reach, so a footer no longer stops an edit; wrapped list items continue under their text.",
+  "version": "2.21.0",
+  "date": "16 November 2026",
+  "notes": "New: Feather PDF for Android - read, find, edit text, highlight, draw, add notes, turn and delete pages, and save, with the same engine as Windows and Mac.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.20.4.exe",
-    "size": 12640325,
-    "sha256": "2dcd409d0fa1611aa1624bd90ecc40bab9b8ef6bed89688f65dfa88874dfe149"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.21.0.exe",
+    "size": 12641027,
+    "sha256": "323b59850e328192385bd2bd725382dc676dcf3b30b0548f8c012c96f0cc954d"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.20.4-mac.dmg",
-    "size": 11491021,
-    "sha256": "4589f5d2887eb87e06cf110582615aedacc54cc26b69461d3aac9ff1d43d9149"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.21.0-mac.dmg",
+    "size": 11491704,
+    "sha256": "411e84b27653387faafd28265f2d150f52c341b32460f5456310b2da6a1b9343"
+  },
+  "android": {
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.21.0-android.apk",
+    "size": 22670478,
+    "sha256": "8fa5a02e3fccffca11f63ec631a3c761c4ce38c71243faa95cc76864bc1b9b1c"
   }
 }
