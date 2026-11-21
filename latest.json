@@ -1,11 +1,11 @@
 {
-  "version": "2.23.0",
+  "version": "2.23.1",
   "date": "21 November 2026",
-  "notes": "Editing that holds up on PDFs from other programs: scanned pages editable, exponents and equations kept, Google Docs and LaTeX papers edit correctly, Word table rows, better find and replace, drawn shapes can be moved or deleted.",
+  "notes": "Editing that holds up on PDFs from other programs (scanned pages, equations, Google Docs, LaTeX, Word tables, find and replace, shapes); updates are now found on networks that block raw.githubusercontent.com.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.0.exe",
-    "size": 12732390,
-    "sha256": "b33ebe7fa305da22b5602e93d82936a3654d85f2c6e7dab6d888b2b235029c67"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.1.exe",
+    "size": 12745226,
+    "sha256": "abc919181aa752d1316c1bb56f523c96c7539957c19eb634f669539d8ae4523e"
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-mac.dmg",
