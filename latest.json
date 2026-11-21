@@ -8,13 +8,13 @@
     "sha256": "c774d6f66bcc511bd1ff5c284b79f4a70bb4bcd09dedca317b4f200a22b32808"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.1-mac.dmg",
-    "size": 11493076,
-    "sha256": "825292a8f6b7aed4936b40194d12bcf04baa041a57f0b68863f42e21287bb63b"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-mac.dmg",
+    "size": 11536791,
+    "sha256": "1f90ac4591f7e09ac2ef9049647464cb9149cc724b9af1bc7c0f6b0ce4e4bf03"
   },
   "android": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-android.apk",
     "size": 9100121,
-    "sha256": "3137743a6329e24d18cdd659b1843933e42a45dfa242761ca0da61e65bd12d49"
+    "sha256": "ad10bf0c90c4c3d9240d1744992a19a18886e31df99db07fb013ac3e86abf592"
   }
 }
