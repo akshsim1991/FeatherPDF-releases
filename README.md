@@ -5,7 +5,7 @@ no cloud service, no tracking. Free to use and share, always.
 
 **Version 2.23.2** (Windows; the Mac and Android versions follow shortly, until then 2.22.2)
 
-- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.23.2.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.2.exe) (or from the mirror: [FeatherPDF-Setup-2.23.2.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-Setup-2.23.2.exe))
+- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.23.2.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.2.exe) (or from the mirror: [FeatherPDF-Setup-2.23.2.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@7416c3d1cee23b0c10d06883d3af5c3bd09f643b/FeatherPDF-Setup-2.23.2.exe))
 - macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.22.2-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-mac.dmg) (or from the mirror: [FeatherPDF-2.22.2-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@0454da5163447e30879a9fbb7ec30beda7317899/FeatherPDF-2.22.2-mac.dmg))
 - Android 7 or later (phones and tablets): [FeatherPDF-2.22.2-android.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-android.apk) (or from the mirror: [FeatherPDF-2.22.2-android.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@0454da5163447e30879a9fbb7ec30beda7317899/FeatherPDF-2.22.2-android.apk)). Open the
   downloaded file; Android asks once whether your browser or file app may install apps. For an older phone that says
