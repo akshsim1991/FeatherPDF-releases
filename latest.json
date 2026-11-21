@@ -1,11 +1,11 @@
 {
-  "version": "2.22.1",
+  "version": "2.22.2",
   "date": "21 November 2026",
-  "notes": "Android: the page and tools clear of the phone's bars, Settings as on Windows, About with licences and privacy, smaller downloads. Windows and Mac: no change except the version.",
+  "notes": "Editing fixes for PDFs made with WPS Office and with Word (Microsoft Print to PDF): headings stay on their line, tables move whole and edit cell by cell, justified text and m\u00b3 kept, the real font shown, spaces no longer boxes, pictures deleted in edit mode.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.22.1.exe",
-    "size": 12668523,
-    "sha256": "b585391b32e0551ad7ca66fcdb543b195159dc9fa9ce353adac7d481db1d10c7"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.22.2.exe",
+    "size": 12685893,
+    "sha256": "c774d6f66bcc511bd1ff5c284b79f4a70bb4bcd09dedca317b4f200a22b32808"
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.1-mac.dmg",
@@ -13,8 +13,8 @@
     "sha256": "825292a8f6b7aed4936b40194d12bcf04baa041a57f0b68863f42e21287bb63b"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.1-android.apk",
-    "size": 8936281,
-    "sha256": "35a0a35f1924aa8c73b64751ad229d1ced20e9a0126e5034ebb5223b54aef176"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-android.apk",
+    "size": 9100121,
+    "sha256": "3137743a6329e24d18cdd659b1843933e42a45dfa242761ca0da61e65bd12d49"
   }
 }
