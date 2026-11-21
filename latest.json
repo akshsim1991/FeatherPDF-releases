@@ -1,11 +1,11 @@
 {
-  "version": "2.23.2",
+  "version": "2.23.3",
   "date": "21 November 2026",
   "notes": "Equations: fractions edited properly (one line, the bar fits). Settings: default zoom and default page layout. Also in 2.23: scanned pages, exponents, Google Docs and LaTeX papers, Word tables, find and replace, shapes; updates found on networks that block GitHub's file server.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.2.exe",
-    "size": 12748750,
-    "sha256": "7c28ed29af2cf4104e843eb49f8c016e63b8fdba6612935047cefb998b0ff872"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.3.exe",
+    "size": 12748741,
+    "sha256": "709ba5a3fd8b2b3858a93745b736f9d5c7f65c35746208343a58c31f5ba56151"
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-mac.dmg",
