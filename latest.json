@@ -1,11 +1,11 @@
 {
-  "version": "2.22.2",
+  "version": "2.23.0",
   "date": "21 November 2026",
-  "notes": "Editing fixes for PDFs made with WPS Office and with Word (Microsoft Print to PDF): headings stay on their line, tables move whole and edit cell by cell, justified text and m\u00b3 kept, the real font shown, spaces no longer boxes, pictures deleted in edit mode.",
+  "notes": "Editing that holds up on PDFs from other programs: scanned pages editable, exponents and equations kept, Google Docs and LaTeX papers edit correctly, Word table rows, better find and replace, drawn shapes can be moved or deleted.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.22.2.exe",
-    "size": 12685893,
-    "sha256": "c774d6f66bcc511bd1ff5c284b79f4a70bb4bcd09dedca317b4f200a22b32808"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.0.exe",
+    "size": 12732390,
+    "sha256": "b33ebe7fa305da22b5602e93d82936a3654d85f2c6e7dab6d888b2b235029c67"
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.2-mac.dmg",
