@@ -1,20 +1,20 @@
 {
-  "version": "2.22.0",
-  "date": "17 November 2026",
-  "notes": "New on Windows: Convert to PDF and combine all the selected file(s) in File Explorer's right-click menu; after converting, Feather PDF asks whether to open the PDF; Settings > File Explorer.",
+  "version": "2.22.1",
+  "date": "21 November 2026",
+  "notes": "Android: the page and tools clear of the phone's bars, Settings as on Windows, About with licences and privacy, smaller downloads. Windows and Mac: no change except the version.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.22.0.exe",
-    "size": 12667608,
-    "sha256": "b925e709f64ecbd1ce3fb7049445c078b91b9ac317e34d62d90c90d024f541cd"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.22.1.exe",
+    "size": 12668523,
+    "sha256": "b585391b32e0551ad7ca66fcdb543b195159dc9fa9ce353adac7d481db1d10c7"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.0-mac.dmg",
-    "size": 11493090,
-    "sha256": "04ab10b8973baaeadc8773c5a9cd332a1c5a9193b7cbd8665a7d32a6e9e28643"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.1-mac.dmg",
+    "size": 11493076,
+    "sha256": "825292a8f6b7aed4936b40194d12bcf04baa041a57f0b68863f42e21287bb63b"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.0-android.apk",
-    "size": 22670482,
-    "sha256": "ca3b4dc5fc0c1d024dd42559bd4b75e58ecff3c31658e8de007aa674ec04cb09"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.22.1-android.apk",
+    "size": 8936281,
+    "sha256": "35a0a35f1924aa8c73b64751ad229d1ced20e9a0126e5034ebb5223b54aef176"
   }
 }
