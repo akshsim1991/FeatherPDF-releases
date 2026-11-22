@@ -1,20 +1,20 @@
 {
-  "version": "2.24.1",
+  "version": "2.24.3",
   "date": "22 November 2026",
-  "notes": "Fixes the app closing when editing PDFs whose pages are forms (syllabus and office-system PDFs); bulleted lists in table cells keep their lines, bullets and indents; the equation editor reads LaTeX equations. 2.24: an equation editor with superscript and subscript buttons.",
+  "notes": "A big update: please install it. Editing PDFs had bugs, and this release fixes them: the app no longer closes on PDFs whose pages are forms (syllabus and office-system PDFs); equations are edited in an equation editor (powers, fractions, roots, Greek) with x\u00b2 and x\u2082 buttons; text in tables, lists in cells and LaTeX formula tables edit without moving rows apart or spoiling the formulas beside them.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.1.exe",
-    "size": 12851487,
-    "sha256": "e7682dac4f7013f1ddf6f1c16217a88babc2f8f3e5ca8e602cbaa20922205a21"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.3.exe",
+    "size": 12860776,
+    "sha256": "c89f38a75097a005e6a6d80f472e8a634d2e832286bec336077eaf498e0dda3d"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.23.3-mac.dmg",
-    "size": 11669407,
-    "sha256": "9f861fce07bf2865ea140512a250ff4387ddb1b84280e5ced2a7068a80156719"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.3-mac.dmg",
+    "size": 11847663,
+    "sha256": "66e01d6939ee7d5d21ef9248f86e46e517eaceb62f0a734a122455051d9eae10"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.23.3-android.apk",
-    "size": 9149273,
-    "sha256": "a0ff3b6e8117c33de819a4f20de94fd890a99c33209632b00c038c42e1d4c92d"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.3-android.apk",
+    "size": 9313113,
+    "sha256": "becb233bac756aaed8d3d47a8a937524c0e5551ecaaa793a37e611b3359e57c1"
   }
 }
