@@ -1,20 +1,20 @@
 {
-  "version": "2.24.3",
+  "version": "2.24.4",
   "date": "22 November 2026",
-  "notes": "A big update: please install it. Editing PDFs had bugs, and this release fixes them: the app no longer closes on PDFs whose pages are forms (syllabus and office-system PDFs); equations are edited in an equation editor (powers, fractions, roots, Greek) with x\u00b2 and x\u2082 buttons; text in tables, lists in cells and LaTeX formula tables edit without moving rows apart or spoiling the formulas beside them.",
+  "notes": "Please install this update: on many journal papers (IEEE Access and others) no text could be edited, moved or resized; now they can, and banners and logos can be picked. Resize handles show arrows for the way they stretch, with side handles for one-way stretching. Table header rows, formulas too wide for their column and inline powers with indices (T*\u2080) are fixed.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.3.exe",
-    "size": 12860776,
-    "sha256": "c89f38a75097a005e6a6d80f472e8a634d2e832286bec336077eaf498e0dda3d"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.4.exe",
+    "size": 12866630,
+    "sha256": "94141247297e19e2ec3b04fc382a43eb1d90f861989de85364a499f601e13fc9"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.3-mac.dmg",
-    "size": 11847663,
-    "sha256": "66e01d6939ee7d5d21ef9248f86e46e517eaceb62f0a734a122455051d9eae10"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-mac.dmg",
+    "size": 11867493,
+    "sha256": "7f38511a5164357ace73e7acb50ec81eef9c0dc133352632f0756cd6d349d17f"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.3-android.apk",
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-android.apk",
     "size": 9313113,
-    "sha256": "becb233bac756aaed8d3d47a8a937524c0e5551ecaaa793a37e611b3359e57c1"
+    "sha256": "85fbe03a777371e74b6b7f7e7cab58a70dc06243181bd654bafa33c4e710cae5"
   }
 }
