@@ -1,11 +1,11 @@
 {
-  "version": "2.24.0",
+  "version": "2.24.1",
   "date": "22 November 2026",
-  "notes": "An equation editor: click an equation to edit it as an equation (powers, indices, fractions, roots, Greek letters and signs) with a live preview; Insert equation; x² and x₂ buttons for superscript and subscript in the text editor.",
+  "notes": "Fixes the app closing when editing PDFs whose pages are forms (syllabus and office-system PDFs); bulleted lists in table cells keep their lines, bullets and indents; the equation editor reads LaTeX equations. 2.24: an equation editor with superscript and subscript buttons.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.0.exe",
-    "size": 12826778,
-    "sha256": "31f2217722ecf94cf5bae78fbd883431e93e0a6c1485597252264a68f3cb3501"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.1.exe",
+    "size": 12851487,
+    "sha256": "e7682dac4f7013f1ddf6f1c16217a88babc2f8f3e5ca8e602cbaa20922205a21"
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.23.3-mac.dmg",
