@@ -1,11 +1,11 @@
 {
-  "version": "2.23.3",
-  "date": "21 November 2026",
-  "notes": "Editing that holds up on PDFs from other programs: scanned pages editable, equations and exponents (fractions keep one line, the bar fits), Google Docs and LaTeX papers, Word table rows, find and replace, drawn shapes. Settings: default zoom and page layout. Updates are found on networks that block GitHub's file server.",
+  "version": "2.24.0",
+  "date": "22 November 2026",
+  "notes": "An equation editor: click an equation to edit it as an equation (powers, indices, fractions, roots, Greek letters and signs) with a live preview; Insert equation; x² and x₂ buttons for superscript and subscript in the text editor.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.23.3.exe",
-    "size": 12748741,
-    "sha256": "709ba5a3fd8b2b3858a93745b736f9d5c7f65c35746208343a58c31f5ba56151"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.0.exe",
+    "size": 12826778,
+    "sha256": "31f2217722ecf94cf5bae78fbd883431e93e0a6c1485597252264a68f3cb3501"
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.23.3-mac.dmg",
