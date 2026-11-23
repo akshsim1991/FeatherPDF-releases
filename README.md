@@ -3,14 +3,14 @@
 A fast, free PDF reader and editor for Windows, macOS and Android. Everything happens on your own device: no account,
 no cloud service, no tracking. Free to use and share, always.
 
-**Version 2.24.4**: please install it. On many journal papers no text could be edited, moved or resized; now
-they can, and resize handles show arrows for the way they stretch.
+**Version 2.25.0 "Taurus"**: equations in LaTeX documents now look like LaTeX's, formulas wrapped over two
+lines are edited as one, and opening and editing are faster.
 
-- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.24.4.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.4.exe) (or from the mirror: [FeatherPDF-Setup-2.24.4.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@12072bf717b174c67a533738385bb0efed627346/FeatherPDF-Setup-2.24.4.exe))
-- macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.24.4-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-mac.dmg) (or from the mirror: [FeatherPDF-2.24.4-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@12072bf717b174c67a533738385bb0efed627346/FeatherPDF-2.24.4-mac.dmg))
-- Android 7 or later (phones and tablets): [FeatherPDF-2.24.4-android.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-android.apk) (or from the mirror: [FeatherPDF-2.24.4-android.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@12072bf717b174c67a533738385bb0efed627346/FeatherPDF-2.24.4-android.apk)). Open the
+- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.25.0.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.25.0.exe) (or from the mirror: [FeatherPDF-Setup-2.25.0.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-Setup-2.25.0.exe))
+- macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.25.0-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-mac.dmg) (or from the mirror: [FeatherPDF-2.25.0-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.25.0-mac.dmg))
+- Android 7 or later (phones and tablets): [FeatherPDF-2.25.0-android.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-android.apk) (or from the mirror: [FeatherPDF-2.25.0-android.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.25.0-android.apk)). Open the
   downloaded file; Android asks once whether your browser or file app may install apps. For an older phone that says
-  the app is not compatible, take the 32-bit one: [FeatherPDF-2.24.4-android-32bit.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-android-32bit.apk) (mirror: [FeatherPDF-2.24.4-android-32bit.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@12072bf717b174c67a533738385bb0efed627346/FeatherPDF-2.24.4-android-32bit.apk)). The first
+  the app is not compatible, take the 32-bit one: [FeatherPDF-2.25.0-android-32bit.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-android-32bit.apk) (mirror: [FeatherPDF-2.25.0-android-32bit.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.25.0-android-32bit.apk)). The first
   Android version reads, finds, edits text, highlights, draws, adds notes, turns and deletes pages, and saves.
 
 Privacy: nothing is collected; see [PRIVACY.md](PRIVACY.md).

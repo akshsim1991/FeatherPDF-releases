@@ -1,20 +1,20 @@
 {
-  "version": "2.24.4",
-  "date": "22 November 2026",
-  "notes": "Please install this update: on many journal papers (IEEE Access and others) no text could be edited, moved or resized; now they can, and banners and logos can be picked. Resize handles show arrows for the way they stretch, with side handles for one-way stretching. Table header rows, formulas too wide for their column and inline powers with indices (T*\u2080) are fixed.",
+  "version": "2.25.0",
+  "date": "23 November 2026",
+  "notes": "Equations in LaTeX documents now look like LaTeX's (set in Latin Modern), formulas wrapped over two lines of a table cell are edited as one, and opening, clicking and editing are faster (scanned pages up to ten times).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.24.4.exe",
-    "size": 12866630,
-    "sha256": "94141247297e19e2ec3b04fc382a43eb1d90f861989de85364a499f601e13fc9"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.25.0.exe",
+    "size": 12955934,
+    "sha256": "856efa49c11a45381ed54310f6bb0149801e9daeee864d77befbc1bf78656fb8"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-mac.dmg",
-    "size": 11867493,
-    "sha256": "7f38511a5164357ace73e7acb50ec81eef9c0dc133352632f0756cd6d349d17f"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-mac.dmg",
+    "size": 12045652,
+    "sha256": "0a8473dfbe7fa1ba7caba74770dc714468221ffc0594cb3a2a6b8f3f0ebff604"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.24.4-android.apk",
-    "size": 9313113,
-    "sha256": "85fbe03a777371e74b6b7f7e7cab58a70dc06243181bd654bafa33c4e710cae5"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-android.apk",
+    "size": 9477929,
+    "sha256": "1af281bb1914bb78fb856358d9c6d431dabc8f4d2d04c91b891f573a343fab7f"
   }
 }
