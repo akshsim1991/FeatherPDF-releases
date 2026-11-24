@@ -23,8 +23,7 @@ on the device; it is never sent anywhere. Saving writes the document only where 
 
 ## Internet
 
-- **Android:** the app has no permission to use the internet, so it cannot send anything.
-- **Windows and macOS:** the app connects to the internet only to see whether a new version is out (it reads a small
+- **Windows, macOS and Android:** the app connects to the internet only to see whether a new version is out (it reads a small
   version file from GitHub, and from the jsDelivr mirror when GitHub cannot be reached), which you can turn off in
   Settings, and when you choose to download an update. No information about you or your documents is sent.
 

@@ -3,14 +3,14 @@
 A fast, free PDF reader and editor for Windows, macOS and Android. Everything happens on your own device: no account,
 no cloud service, no tracking. Free to use and share, always.
 
-**Version 2.25.1**: on Windows 11, select two or more PDFs and right-click: Combine into one PDF is in the first menu.
-Choosing many PDFs at once to combine works again.
+**Version 2.26.0 "Mondeo"**: on Android, tabs, a sidebar with page thumbnails and bookmarks, a tap for full screen,
+and updates from Settings. This is the last Android update to install by hand: from now on the app updates itself.
 
-- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.25.1.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.25.1.exe) (or from the mirror: [FeatherPDF-Setup-2.25.1.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@29680489cecf7ee365b5d10cb376a6e33dc93f27/FeatherPDF-Setup-2.25.1.exe))
-- macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.25.1-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-mac.dmg) (or from the mirror: [FeatherPDF-2.25.1-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@29680489cecf7ee365b5d10cb376a6e33dc93f27/FeatherPDF-2.25.1-mac.dmg))
-- Android 7 or later (phones and tablets): [FeatherPDF-2.25.1-android.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-android.apk) (or from the mirror: [FeatherPDF-2.25.1-android.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@29680489cecf7ee365b5d10cb376a6e33dc93f27/FeatherPDF-2.25.1-android.apk)). Open the
+- Windows 7 SP1, 8.1, 10 and 11 (64-bit): [FeatherPDF-Setup-2.26.0.exe](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.26.0.exe) (or from the mirror: [FeatherPDF-Setup-2.26.0.exe](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-Setup-2.26.0.exe))
+- macOS 11 or later (Apple silicon and Intel): [FeatherPDF-2.26.0-mac.dmg](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-mac.dmg) (or from the mirror: [FeatherPDF-2.26.0-mac.dmg](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.26.0-mac.dmg))
+- Android 7 or later (phones and tablets): [FeatherPDF-2.26.0-android.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-android.apk) (or from the mirror: [FeatherPDF-2.26.0-android.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.26.0-android.apk)). Open the
   downloaded file; Android asks once whether your browser or file app may install apps. For an older phone that says
-  the app is not compatible, take the 32-bit one: [FeatherPDF-2.25.1-android-32bit.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-android-32bit.apk) (mirror: [FeatherPDF-2.25.1-android-32bit.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@29680489cecf7ee365b5d10cb376a6e33dc93f27/FeatherPDF-2.25.1-android-32bit.apk)). The first
+  the app is not compatible, take the 32-bit one: [FeatherPDF-2.26.0-android-32bit.apk](https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-android-32bit.apk) (mirror: [FeatherPDF-2.26.0-android-32bit.apk](https://cdn.jsdelivr.net/gh/akshsim1991/FeatherPDF-releases@RELEASE/FeatherPDF-2.26.0-android-32bit.apk)). The first
   Android version reads, finds, edits text, highlights, draws, adds notes, turns and deletes pages, and saves.
 
 Privacy: nothing is collected; see [PRIVACY.md](PRIVACY.md).
@@ -19,4 +19,5 @@ If a download does not start, your network may block raw.githubusercontent.com (
 mirror link beside it, which serves the same file (its SHA-256 is in latest.json).
 
 Installed copies on Windows and macOS find new versions themselves (Help > Update to new version) and ask whether to
-update now or later. On Android, download the new APK and open it: it installs over the old one, keeping your settings.
+update now or later. So does the Android app (Settings > Advanced > Update to the new version, and a check when it opens):
+it downloads the APK, checks it and hands it to Android's installer, which installs it over the old one, keeping your settings.

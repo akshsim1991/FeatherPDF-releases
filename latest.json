@@ -1,20 +1,25 @@
 {
-  "version": "2.25.1",
+  "version": "2.26.0",
   "date": "24 November 2026",
-  "notes": "Windows: choosing many PDFs at once to combine works again; on Windows 11, Combine into one PDF is in File Explorer's first right-click menu (select two or more PDFs).",
+  "notes": "Android: tabs for every open PDF, a sidebar with page thumbnails and bookmarks, a tap on the page for full screen, and updates from Settings (as on Windows and macOS).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.25.1.exe",
-    "size": 13107813,
-    "sha256": "06c0187f504f9aeafc72cd491e5ce9628246fec8f1a7c88e662e9dfb09452703"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.26.0.exe",
+    "size": 13107802,
+    "sha256": "4377398ecb3667d884b7da9bedebe6ce7a61556fa9b9018d552bc869d900069a"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-mac.dmg",
-    "size": 12045643,
-    "sha256": "f657dce911bbcc0dbbb7b77278526b8a5aaeac63f40e9b2c9ef40b209e2d95f9"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-mac.dmg",
+    "size": 12045639,
+    "sha256": "7897bb6dee9682426a6ae0082de3afb8dd35ca36c888549f79dd2c23bd6d8221"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-android.apk",
-    "size": 9477929,
-    "sha256": "88d86015ea11fe28eff7721bfd4577254d912952af2f2634d1272ca016985d62"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-android.apk",
+    "size": 9510761,
+    "sha256": "efbba517450be8344e56efd8fbcb2bc842561e19f84a4b46af53fc59e4291174"
+  },
+  "android32": {
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-android-32bit.apk",
+    "size": 6632827,
+    "sha256": "05ce8588f575fcd305e46715f8a0badb6050f3f7864d930d6695be19970b955e"
   }
 }
