@@ -1,25 +1,30 @@
 {
-  "version": "2.26.0",
+  "version": "2.27.0",
   "date": "24 November 2026",
-  "notes": "Android: tabs for every open PDF, a sidebar with page thumbnails and bookmarks, a tap on the page for full screen, and updates from Settings (as on Windows and macOS).",
+  "notes": "New: Feather PDF for iPhone and iPad (installed from a Mac with Sideloadly or AltStore): tabs, sidebar, full screen, editing, equations, highlights, drawings and notes.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.26.0.exe",
-    "size": 13107802,
-    "sha256": "4377398ecb3667d884b7da9bedebe6ce7a61556fa9b9018d552bc869d900069a"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.27.0.exe",
+    "size": 13107814,
+    "sha256": "7e8ac80f599b6242e8cd3b940ee04eaa9261326d22106724dfb062e9382d0075"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-mac.dmg",
-    "size": 12045639,
-    "sha256": "7897bb6dee9682426a6ae0082de3afb8dd35ca36c888549f79dd2c23bd6d8221"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.0-mac.dmg",
+    "size": 12045660,
+    "sha256": "b87b098d4bb04ebbb3e3827bf8b73c46d9293820d38ea505e43c1c793ce5ecf9"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-android.apk",
-    "size": 9510761,
-    "sha256": "efbba517450be8344e56efd8fbcb2bc842561e19f84a4b46af53fc59e4291174"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.0-android.apk",
+    "size": 9510765,
+    "sha256": "3c7cc6d9618f60e4d14c0f8b5f0ade5c931e60151b043df2fa65f8b43f9b4e4c"
+  },
+  "ios": {
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.0-ios.ipa",
+    "size": 4440591,
+    "sha256": "dc10789905f258a9fab9a4fe32e2f0e44652da624c182560e06e97ef464338e0"
   },
   "android32": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.26.0-android-32bit.apk",
-    "size": 6632827,
-    "sha256": "05ce8588f575fcd305e46715f8a0badb6050f3f7864d930d6695be19970b955e"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.0-android-32bit.apk",
+    "size": 6632831,
+    "sha256": "9059a07dd2fe0c3f0299da57fc0d729c0ed43a0fd33ec8a7f2842d1997c86278"
   }
 }
