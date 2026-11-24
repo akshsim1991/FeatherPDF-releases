@@ -1,20 +1,20 @@
 {
-  "version": "2.25.0",
-  "date": "23 November 2026",
-  "notes": "Equations in LaTeX documents now look like LaTeX's (set in Latin Modern), formulas wrapped over two lines of a table cell are edited as one, and opening, clicking and editing are faster (scanned pages up to ten times).",
+  "version": "2.25.1",
+  "date": "24 November 2026",
+  "notes": "Windows: choosing many PDFs at once to combine works again; on Windows 11, Combine into one PDF is in File Explorer's first right-click menu (select two or more PDFs).",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.25.0.exe",
-    "size": 12955934,
-    "sha256": "856efa49c11a45381ed54310f6bb0149801e9daeee864d77befbc1bf78656fb8"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.25.1.exe",
+    "size": 13107813,
+    "sha256": "06c0187f504f9aeafc72cd491e5ce9628246fec8f1a7c88e662e9dfb09452703"
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-mac.dmg",
-    "size": 12045652,
-    "sha256": "0a8473dfbe7fa1ba7caba74770dc714468221ffc0594cb3a2a6b8f3f0ebff604"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-mac.dmg",
+    "size": 12045643,
+    "sha256": "f657dce911bbcc0dbbb7b77278526b8a5aaeac63f40e9b2c9ef40b209e2d95f9"
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.0-android.apk",
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.25.1-android.apk",
     "size": 9477929,
-    "sha256": "1af281bb1914bb78fb856358d9c6d431dabc8f4d2d04c91b891f573a343fab7f"
+    "sha256": "88d86015ea11fe28eff7721bfd4577254d912952af2f2634d1272ca016985d62"
   }
 }
