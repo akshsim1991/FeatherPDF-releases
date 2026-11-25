@@ -5,26 +5,36 @@
   "windows": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.27.1.exe",
     "size": 13108864,
-    "sha256": "ece8dbbdea8f2be0a59dd68ac1f457e234f2eea8dccb68cf1389b00f55deeb2f"
+    "sha256": "ece8dbbdea8f2be0a59dd68ac1f457e234f2eea8dccb68cf1389b00f55deeb2f",
+    "version": "2.27.1",
+    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
   },
   "mac": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-mac.dmg",
     "size": 12047984,
-    "sha256": "661d73e9887fcaec125271fa4957ba2bed952bd90be9d3d6692c9ad85ca23a12"
+    "sha256": "661d73e9887fcaec125271fa4957ba2bed952bd90be9d3d6692c9ad85ca23a12",
+    "version": "2.27.1",
+    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
   },
   "android": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-android.apk",
     "size": 9510765,
-    "sha256": "f038bb1daa63f33c94023cd0e4d9c7ba10bcb8b3850472e9076f64c7bf5c9102"
+    "sha256": "f038bb1daa63f33c94023cd0e4d9c7ba10bcb8b3850472e9076f64c7bf5c9102",
+    "version": "2.27.1",
+    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
   },
   "ios": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-ios.ipa",
-    "size": 4440594,
-    "sha256": "38b70cd2cfb17ffce3918a675087645c3911b5e658cd40599151e9073244c7d4"
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.28.0-ios.ipa",
+    "size": 4490429,
+    "sha256": "237553c94d2f0fed721757b9936eb4afe310229e796619c11abaf72d7f71c3a6",
+    "version": "2.28.0",
+    "notes": "iPhone and iPad: Search for PDF files on your iPhone and a PDF file manager (rename, move, duplicate, delete...); recent documents open again; new versions download at once."
   },
   "android32": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-android-32bit.apk",
     "size": 6632831,
-    "sha256": "d46c0d1c71dd1811ca3436e3ed22d4dc95eacc5c222cb3f0f85cf829741f7fa3"
+    "sha256": "d46c0d1c71dd1811ca3436e3ed22d4dc95eacc5c222cb3f0f85cf829741f7fa3",
+    "version": "2.27.1",
+    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
   }
 }

@@ -1,0 +1,38 @@
+{
+  "name": "Feather PDF",
+  "identifier": "com.featherpdf.source",
+  "sourceURL": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/altstore.json",
+  "website": "https://github.com/akshsim1991/FeatherPDF-releases",
+  "apps": [
+    {
+      "name": "Feather PDF",
+      "bundleIdentifier": "com.featherpdf.ios",
+      "developerName": "Feather PDF",
+      "subtitle": "A fast, free PDF reader and editor.",
+      "localizedDescription": "Read, find, edit text and equations, highlight, draw, add notes, turn and delete pages, and manage the PDF files on your iPhone. No account, no tracking.",
+      "iconURL": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/ios-icon.png",
+      "tintColor": "C62828",
+      "version": "2.28.0",
+      "versionDate": "2026-11-25",
+      "versionDescription": "iPhone and iPad: Search for PDF files on your iPhone and a PDF file manager (rename, move, duplicate, delete...); recent documents open again; new versions download at once.",
+      "downloadURL": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.28.0-ios.ipa",
+      "size": 4490429,
+      "versions": [
+        {
+          "version": "2.28.0",
+          "date": "2026-11-25",
+          "localizedDescription": "iPhone and iPad: Search for PDF files on your iPhone and a PDF file manager (rename, move, duplicate, delete...); recent documents open again; new versions download at once.",
+          "downloadURL": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.28.0-ios.ipa",
+          "size": 4490429,
+          "sha256": "237553c94d2f0fed721757b9936eb4afe310229e796619c11abaf72d7f71c3a6",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
