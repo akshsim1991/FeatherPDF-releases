@@ -1,27 +1,27 @@
 {
-  "version": "2.27.1",
-  "date": "25 November 2026",
-  "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page).",
+  "version": "2026.11.27",
+  "date": "27 November 2026",
+  "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2.27.1.exe",
-    "size": 13108864,
-    "sha256": "ece8dbbdea8f2be0a59dd68ac1f457e234f2eea8dccb68cf1389b00f55deeb2f",
-    "version": "2.27.1",
-    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2026.11.27.exe",
+    "size": 13112199,
+    "sha256": "f5d7b4d39d71fc22492a0b6c250f95d5bdb88a3d6cd9f647ed9b32268af9248e",
+    "version": "2026.11.27",
+    "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date."
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-mac.dmg",
-    "size": 12047984,
-    "sha256": "661d73e9887fcaec125271fa4957ba2bed952bd90be9d3d6692c9ad85ca23a12",
-    "version": "2.27.1",
-    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2026.11.27-mac.dmg",
+    "size": 12058936,
+    "sha256": "beb7077417735aaedceb49cb80976a0d2f57b7d92c56261ff166fbe6da65f378",
+    "version": "2026.11.27",
+    "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date."
   },
   "android": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-android.apk",
-    "size": 9510765,
-    "sha256": "f038bb1daa63f33c94023cd0e4d9c7ba10bcb8b3850472e9076f64c7bf5c9102",
-    "version": "2.27.1",
-    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2026.11.27-android.apk",
+    "size": 9510769,
+    "sha256": "a1bb534a0ddc6a1c531da07ae1a187538d66294d82159f726e6412eef0b0635d",
+    "version": "2026.11.27",
+    "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date."
   },
   "ios": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.28.0-ios.ipa",
@@ -31,10 +31,10 @@
     "notes": "iPhone and iPad: Search for PDF files on your iPhone and a PDF file manager (rename, move, duplicate, delete...); recent documents open again; new versions download at once."
   },
   "android32": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2.27.1-android-32bit.apk",
-    "size": 6632831,
-    "sha256": "d46c0d1c71dd1811ca3436e3ed22d4dc95eacc5c222cb3f0f85cf829741f7fa3",
-    "version": "2.27.1",
-    "notes": "New on Windows and macOS: rotate buttons in the toolbar (the page shown; Shift+click turns every page)."
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2026.11.27-android-32bit.apk",
+    "size": 6632835,
+    "sha256": "269e8768741f5a8a7aeb2b1e28a515e2508acf04c56803767adcc415bcb83fe0",
+    "version": "2026.11.27",
+    "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date."
   }
 }
