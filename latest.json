@@ -1,20 +1,20 @@
 {
-  "version": "2026.11.27",
-  "date": "27 November 2026",
-  "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date.",
+  "version": "2026.11.28",
+  "date": "28 November 2026",
+  "notes": "New toolbar buttons (thumbnails, print, fit, night colours, full screen; Share on the Mac); Ctrl/Cmd+R turns the page shown on both; on the Mac: Word, Excel and PowerPoint to PDF and the Delete header and footer window.",
   "windows": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2026.11.27.exe",
-    "size": 13112199,
-    "sha256": "f5d7b4d39d71fc22492a0b6c250f95d5bdb88a3d6cd9f647ed9b32268af9248e",
-    "version": "2026.11.27",
-    "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date."
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-Setup-2026.11.28.exe",
+    "size": 13113997,
+    "sha256": "63bc3863f8a04400e492ae6aec828080472e096177fbc43d72cdafa9ca57ac71",
+    "version": "2026.11.28",
+    "notes": "New toolbar buttons (thumbnails, print, fit, night colours, full screen; Share on the Mac); Ctrl/Cmd+R turns the page shown on both; on the Mac: Word, Excel and PowerPoint to PDF and the Delete header and footer window."
   },
   "mac": {
-    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2026.11.27-mac.dmg",
-    "size": 12058936,
-    "sha256": "beb7077417735aaedceb49cb80976a0d2f57b7d92c56261ff166fbe6da65f378",
-    "version": "2026.11.27",
-    "notes": "Move or resize picks several things at once: Ctrl+click or Shift+click (Mac: Cmd or Shift), or draw a box over them; then move, resize or delete them together. Versions are now the release date."
+    "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2026.11.28-mac.dmg",
+    "size": 12109299,
+    "sha256": "d12fa78a69bcfb07ac79478a19769b9c80d8d9419d97638fd2ec9508a8ed4292",
+    "version": "2026.11.28",
+    "notes": "New toolbar buttons (thumbnails, print, fit, night colours, full screen; Share on the Mac); Ctrl/Cmd+R turns the page shown on both; on the Mac: Word, Excel and PowerPoint to PDF and the Delete header and footer window."
   },
   "android": {
     "url": "https://raw.githubusercontent.com/akshsim1991/FeatherPDF-releases/main/FeatherPDF-2026.11.27-android.apk",
